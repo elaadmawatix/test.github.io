@@ -1,0 +1,49 @@
+---
+layout: a_new_page
+title: 'workflow of mine'
+permalink: /workflow/
+description: 'workflow of mine'
+---
+
+Idea:
+
+1. [How to write a .MD file](/en/How-to-write-a-MD-file/)
+2. [Writing for 'Future of Me'](/en/Writing-for-Future-of-Me/)
+3. [Request: to AI effectively and efficiently {the right Tone}](/en/Request_to_AI_effectively_and_efficiently__the_right_Tone/)
+4. [Humble: a Small Child, on the Shore -- the Vast Ocean of AI](/en/Humble_a-Small-Child-on-the-Shore-the-Vast-Ocean-of-AI/)
+5. [Danger: Snakes in Software Development & Business](/en/Danger_Snakes_in_Software_Development__Business/)
+6. Problem is in Detail, solid Foundation is needed for Problem-Solving
+7. [Multi Layer when creating Content {writing, video, ...}](/en/Multi-Layer-creating-Content__writing_video/)
+8. [the word BUT and how to avoid it](/en/the_word_BUT__and_how_to_avoid_it/)
+9. Speed or Slow --> Strength, Timing vs Too Late
+10. Diamond, never give up
+
+Arsitektur:
+
+1. [Document Driven Development](/en/Document_Driven_Development/)
+2. [Example .MD File, for Document Driven Development](/en/Example_MD_File__Document_Driven_Development/)
+
+Testing:
+
+1. [FSM: Finite State Machine for E2E {end-to-end} Testing](/en/FSM__Finite-State-Machine-for-E2E-Testing/)
+2. [E2E {end-to-end} Testing: 4 tipe Testing Script](/en/E2E__end_to_end_Testing__4_tipe_Testing_Script/)
+3. Generator: Script E2E {end-to-end} Testing
+4. Contoh Testing Script: Tipe 2, Header - Detail
+
+CI / CD:
+
+1. [Infrastructure {Server, CI/ CD, multi Tenant}](/en/Infrastructure__Server_CI_CD__multi_Tenant/)
+2. [Github Action file .yml for multi Tenant with file Target.txt](/en/Github_Action_file_yml__for_multi_Tenant_with_file_Target_txt/)
+
+Data:
+
+1. [Data Model part 1 - Entity, DTO {Data Transfer Object}](/en/Data_Model_part_1__Entity_DTO_Data_Transfer_Object/)
+2. [Data Model part 2 - DTO {Data Transfer Object}](/en/Data_Model_part_2__DTO_Data_Transfer_Object/)
+3. [Data Model part 3 - out of sync Database Object {Table, View} vs Model {BackEnd}](/en/Data_Model_part_3__out_of_sync_DB_Object_vs__Model_BackEnd/)
+4. [Data Model part 4 - out of sync Model {BackEnd} vs Types {FrontEnd}](/en/Data_Model_part_4__out_of_sync_Model_BackEnd_vs_Types_FrontEnd/)
+5. Data Model part 5 - Real example
+
+Journey:
+
+1. [Me and SharePoint {2007, 2010, 2013 and SharePoint Online}](/en/Me-and-SharePoint/)
+2. [Available for Remote Work, Sudirman - Senior Software Developer](/remote/)

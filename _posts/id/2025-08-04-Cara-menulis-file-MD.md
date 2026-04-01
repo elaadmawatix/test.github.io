@@ -1,0 +1,80 @@
+---
+ref: cara-menulis-file-md
+judul: Cara menulis file .MD
+title: 'Cara menulis file .MD'
+description: 'Pegangan teknis bagi saya pribadi, setiap kali menulis suatu artikel'
+tags: [ide]
+category: Ide
+category_url: ide
+---
+
+# Cara menulis file .MD
+
+> **catatan:** tulisan ini lebih teknis, sebagai implementasi renungan [Menulis untuk 'Future of Me'](/id/Menulis-untuk-Future-of-Me/)
+
+## Tulisan Umum
+
+1. selalu gunakan `GIT History`<br/>
+   untuk _track changes_
+
+2. perhatikan cara menulis<br/>
+   Tulisan akan dibaca oleh manusia, maka sebaiknya menulis secara `natural`. - Indentasi - Outline
+
+    > **Note:** AI sangat cerdas dan langsung paham dengan mudah, tulisan yang dibuat secara `natural`.
+
+3. SDR:
+    - **S**ituation
+    - **D** {Define → Design → Document → Develop → Delivery}
+    - **R** {Result, Realistic}
+4. Too Few vs Too Much
+
+    ```
+    ❌ Too Few   → Incomplete, tidak berguna
+    ❌ Too Much  → Overwhelmed, kebanjiran informasi
+    ✅ Pragmatic
+    ```
+
+    saya harus menemukan _sweet spot_ -- yang "pas".
+
+5. jika memungkinkan, berisi 3 hal berikut:<br/>
+   {_Nice to have_, tetapi tidak harus selalu demikian, _it can be boring_} 1. Problem 2. Solusi 3. Ide Utama
+
+```
+## Problem and Solution
+
+**Problem:**
+- user ingin melakukan Import data ke suatu Software
+- suatu Software mempunyai Format data khusus untuk masing-masing data
+
+**Solution:**
+- tulisan `step by step` untuk melakukan Import data ke suatu Software
+
+## Ide Utama: buat Data sesuai Format, file contoh dari suatu Software
+- file Excel dari User
+- `Contoh File` {_file Template Excel_} dari suatu Software
+- Generate data (kombinasi)
+```
+
+## Tulisan Teknis
+
+Jika bagian di atas, lebih ke arah konsep, maka bagian berikut ini lebih ke actualnya. Saya banyak menulis artikel teknis di Website ini. Saya gunakan beberapa pedoman berikut:
+
+1. the Pragmatic Programmer [book](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+2. Solve the problem
+3. not Perfectionist
+    - hindari `Over Engineering`
+    - Good > Perfect
+    - Shipment {Delivery} the Result {tulisan, `Code`, ...}
+4. CI / CD
+    - Continuous Improvement / Continuous Development
+    - bertahap
+    - terus menerus {_Continuous_}
+    - always gunakan GitHub untuk:
+        - menyimpan `Code`
+        - menyimpan tulisan-tulisan dalam bentuk .MD file
+        - GitHub Issues untuk menulis ide-ide yang terlintas {GitHub Issues support Versioning/History}
+        - Copy/Page image ke file .MD atau ke Issue == sangat mudah
+5. SDR:
+    - **S**ituation
+    - **D** {Define → Design → Document → Develop → Delivery}
+    - **R** {Result, Realistic}
