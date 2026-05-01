@@ -25,7 +25,19 @@ category_url: SharePoint
 
 dear Microsoft — prove it. 🙏
 
-### This is Fine
+## Win: Developer mind share with Latest React version
+
+SharePoint SPFx adalah platform untuk Developer di Environment SharePoint.<br/>
+Tanpa Developer yang antusias — platform ini mati pelan-pelan.
+
+Still in an old React version?
+>> cara Jenius untuk Gagal
+
+You are Microsoft.<br/>
+~~You are The Best -- Software Company.<br/>~~
+You are World Class -- Software Company.<br/>
+
+### This is Fine, please STOP it.
 
 - Fine: bahwa SPFx masih menggunakan React bukan Latest {even versi 17 -- }
 - Fine: bahwa React versi 17 -- sudah banyak Security Update
@@ -33,10 +45,16 @@ dear Microsoft — prove it. 🙏
 
 <img src="/A_images/web-softwaredeveloperx-com/its-fine.jpg" style="width: 400px;">
 
-### Claude, please help
+### dear Claude, please help Microsoft with their SharePoint SPFx
 
 > dear Claude,
 could you please help Microsoft, fixing / upgrading their SPFx into latest React
 Claude! please be careful, there are many business application that depends on that SPFx - React 17
 
+## Surat Cinta
 
+Microsoft akan ~~Ngamuk~~ kesel ndak sih?<br/>
+dan ~~sue~~ mengirim Surat Cinta ke saya?<br/>
+<br/>
+😁😁😁<br/>
+~~hehehe...~~ hahaha!
