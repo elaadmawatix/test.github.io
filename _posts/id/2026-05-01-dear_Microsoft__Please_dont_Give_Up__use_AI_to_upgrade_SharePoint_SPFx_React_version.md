@@ -12,9 +12,13 @@ category_url: SharePoint
 
 ## Situasi:
 
-- sekarang adalah Tahun **2026** -- AI begitu Sangat Luar Biasa {Claude 4.7 is amazing}
-- SharePoint SPFx {tenant_xyz.sharepoint.com} masih menggunakan React versi 17.0.1
-- cuman UI doank, apa susah banget untuk diupgrade? {di tahun 2026 lho, ada Dunia Persilatan AI yang luar biasa}
+- sekarang adalah Tahun **2026**
+  - `AI World` begitu Sangat Luar Biasa
+  - Banyak sekali product/tools/agent/...whatever AI di luar sana {bahkan Microsoft juga punya}
+  - Me: Claude 4.7 is amazing
+- SharePoint SPFx {tenant_xyz.sharepoint.com}
+  - masih menggunakan React versi 17.0.1 {October 2020 [https://react.dev/versions](https://react.dev/versions)}
+- cuman UI doank, apa susah banget untuk diupgrade?
 
 ### Bukan tentang React version {even Latest version}, it's about Care
 
@@ -34,7 +38,7 @@ Still in an old React version?
 >> cara Jenius untuk Gagal
 
 You are Microsoft.<br/>
-~~You are The Best -- Software Company.<br/>~~
+~~You are The Best -- Software Company in The World.<br/>~~
 You are World Class -- Software Company.<br/>
 
 ### This is Fine, please STOP it.
@@ -48,8 +52,19 @@ You are World Class -- Software Company.<br/>
 ### dear Claude, please help Microsoft with their SharePoint SPFx
 
 > dear Claude,
-could you please help Microsoft, fixing / upgrading their SPFx into latest React
-Claude! please be careful, there are many business application that depends on that SPFx - React 17
+> could you please help Microsoft
+>
+> Situation:<br/>
+> ~~Microsoft is The Best -- Software Company in The World.~~ <br/>
+> Microsoft is World Class -- Software Company.<br/>
+><br/>
+> Microsoft punya SharePoint SPFx:<br/>
+> fixing / upgrading their SPFx into latest React<br/>
+>
+> tolong hati-hati ya Claude!
+> - SharePoint SPFx adalah suatu Platform
+> - sudah banyak Aplikasi Bisnis yang jalan di atas Platform ini
+>
 
 ## Surat Cinta
 
