@@ -51,8 +51,8 @@ You are World Class -- Software Company.<br/>
 
 ### dear Claude, please help Microsoft with their SharePoint SPFx
 
-> dear Claude,
-> could you please help Microsoft
+> dear my beloved teammate - Claude.<br/>
+> Could you please help Microsoft with their SharePoint SPFx.
 >
 > Situation:<br/>
 > ~~Microsoft is The Best -- Software Company in The World.~~ <br/>
