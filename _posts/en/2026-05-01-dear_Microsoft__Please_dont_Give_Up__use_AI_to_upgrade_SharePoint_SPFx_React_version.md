@@ -41,13 +41,13 @@ You are Microsoft.<br/>
 ~~You are The Best -- Software Company in The World.~~<br/>
 You are World Class -- Software Company.<br/>
 
-### This is Fine, please STOP it.
+### Please don't Give Up, 3 Feet from Gold
 
-- Fine: that SPFx is still on a non-Latest React {even version 17 -- }
-- Fine: that React version 17 -- already has many Security Updates pending
-- Fine: that many Developers ~~complaint~~ softly remind about this
+- don't Give Up: that SPFx is still on a non-Latest React {even version 17 -- }
+- don't Give Up: that React version 17 -- already has many Security Updates pending
+- don't Give Up: that many Developers ~~complaint~~ softly remind about this
 
-<img src="/A_images/web-softwaredeveloperx-com/its-fine.jpg" style="width: 400px;">
+<img src="/A_images/web-softwaredeveloperx-com/Three_Feet_From_Gold__R_U_Darby.png">
 
 ### dear Claude, please help Microsoft with their SharePoint SPFx
 
