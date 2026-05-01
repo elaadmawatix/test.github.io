@@ -52,5 +52,6 @@ FrontEnd:
 
 SharePoint:
 1. [dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version](/id/dear_Microsoft__Please_dont_Give_Up__use_AI_to_upgrade_SharePoint_SPFx_React_version/)
-2. [Gileee... masih pakai React 17.0.1 di May 2026 - SharePoint SPFx](/id/Gileee__masih_pakai_React_17_0_1__May_2026__SharePoint_SPFx/)
-3. [Me and SharePoint {2007, 2010, 2013 and SharePoint Online}](/id/Me-and-SharePoint/)
+2. [reply from Claude: dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version](/en/reply_from_Claude__dear_Microsoft__Please_dont_Give_Up__use_AI_to_upgrade_SharePoint_SPFx_React_version/)
+3. [Gileee... masih pakai React 17.0.1 di May 2026 - SharePoint SPFx](/id/Gileee__masih_pakai_React_17_0_1__May_2026__SharePoint_SPFx/)
+4. [Me and SharePoint {2007, 2010, 2013 and SharePoint Online}](/id/Me-and-SharePoint/)

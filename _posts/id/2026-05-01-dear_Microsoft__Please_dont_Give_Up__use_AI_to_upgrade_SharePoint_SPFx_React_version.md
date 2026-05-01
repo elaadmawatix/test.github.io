@@ -35,7 +35,7 @@ SharePoint SPFx adalah platform untuk Developer di Environment SharePoint.<br/>
 Tanpa Developer yang antusias — platform ini mati pelan-pelan.
 
 Still in an old React version?
->> cara Jenius untuk Gagal
+> cara Jenius untuk Gagal
 
 You are Microsoft.<br/>
 ~~You are The Best -- Software Company in The World.<br/>~~
