@@ -69,6 +69,12 @@ You are World Class -- Software Company.<br/>
 > - Please skip React 18 {[https://react.dev/versions](https://react.dev/versions) v18.3.1 (**April, 2024**)}
 > - Now it's **May 2026**
 
+jawaban dari Claude:
+- di file _dear-Claude-please-help-Microsoft-with-SPFx.png_
+- lebih detail pada artikel: [reply from Claude: dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version](/en/reply_from_Claude__dear_Microsoft__Please_dont_Give_Up__use_AI_to_upgrade_SharePoint_SPFx_React_version/)
+
+<img src="/A_images/web-softwaredeveloperx-com/dear-Claude-please-help-Microsoft-with-SPFx.png">
+
 ## Surat Cinta
 
 Microsoft akan ~~Ngamuk~~ kesel ndak sih?<br/>
