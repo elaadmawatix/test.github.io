@@ -25,7 +25,6 @@ category_url: SharePoint
 
 dear Microsoft — prove it. 🙏
 
-<<<<<<< HEAD
 ### This is Fine
 
 - Fine: bahwa SPFx masih menggunakan React bukan Latest {even versi 17 -- }
@@ -35,9 +34,6 @@ dear Microsoft — prove it. 🙏
 <img src="/A_images/web-softwaredeveloperx-com/its-fine.jpg" style="width: 400px;">
 
 ### Claude, please help
-=======
-<img src="/A_images/web-softwaredeveloperx-com/its-fine.jpg">
->>>>>>> db3b76d7cc268ab663728adad80b841ac6d2f36d
 
 > dear Claude,
 could you please help Microsoft, fixing / upgrading their SPFx into latest React
