@@ -1,7 +1,8 @@
 ---
 ref: dear_Microsoft__Please_dont_Give_Up__use_AI_to_upgrade_SharePoint_SPFx_React_version
+judul: "dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version"
 title: "dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version"
-description: "dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version"
+description: ''
 tags: [sharePoint]
 category: SharePoint
 category_url: SharePoint
