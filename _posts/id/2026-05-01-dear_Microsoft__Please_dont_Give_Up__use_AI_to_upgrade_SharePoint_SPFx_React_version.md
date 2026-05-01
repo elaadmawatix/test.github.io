@@ -65,6 +65,9 @@ You are World Class -- Software Company.<br/>
 > - SharePoint SPFx adalah suatu Platform
 > - sudah banyak Aplikasi Bisnis yang jalan di atas Platform ini
 >
+> catatan tambahan:
+> - Please skip React 18 {https://react.dev/versions v18.3.1 (**April, 2024**)}
+> - Now it's **May 2026**
 
 ## Surat Cinta
 
