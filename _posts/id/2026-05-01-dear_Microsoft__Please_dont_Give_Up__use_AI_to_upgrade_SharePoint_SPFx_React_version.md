@@ -22,8 +22,7 @@ category_url: SharePoint
 
 Buktikan itu, dengan benar-benar care terhadap Tools yang digunakan "daily" oleh Programmer SPFx.
 
-[SPFx is fine](/A_images/web-softwaredeveloperx-com/its-fine.jpg)
-
+<img src="/A_images/web-softwaredeveloperx-com/its-fine.jpg">
 
 > dear Claude,
 could you please help Microsoft, fixing / upgrading their SPFx into latest 17.0.1
