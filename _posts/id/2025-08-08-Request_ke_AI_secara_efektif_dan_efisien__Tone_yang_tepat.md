@@ -42,7 +42,7 @@ melainkan seperti berbicara ke _teammate_ yang **sangat cerdas**:<br/>
 
 > saya punya A dan B<br/>
 > tolong bantu saya buat C<br/>
-> mengikuti pola A
+> mengikuti pola kombinasi A dan B
 
 perbedaannya:
 

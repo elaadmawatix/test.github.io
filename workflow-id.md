@@ -46,11 +46,11 @@ Data:
 4. [Data Model part 4 - out of sync Model {BackEnd} vs Types {FrontEnd}](/id/Data_Model_part_4__out_of_sync_Model_BackEnd_vs_Types_FrontEnd/)
 5. Data Model part 5 - Real example
 
-Journey:
-
-1. [Me and SharePoint {2007, 2010, 2013 and SharePoint Online}](/id/Me-and-SharePoint/)
-2. [Available for Remote Work, Sudirman - Senior Software Developer](/remote/)
-
 FrontEnd:
 1. [Me and FrontEnd](/id/Me_and_FrontEnd/)
-1. [FrontEnd: Tantangan dan Strategi](/id/FrontEnd__Tantangan_dan_Strategi/)
+2. [FrontEnd: Tantangan dan Strategi](/id/FrontEnd__Tantangan_dan_Strategi/)
+
+SharePoint:
+1. [dear Microsoft, Please don't Give Up — use AI to upgrade SharePoint SPFx React version](/id/dear_Microsoft__Please_dont_Give_Up__use_AI_to_upgrade_SharePoint_SPFx_React_version/)
+2. [Gileee... masih pakai React 17.0.1 di May 2026 - SharePoint SPFx](/id/Gileee__masih_pakai_React_17_0_1__May_2026__SharePoint_SPFx/)
+3. [Me and SharePoint {2007, 2010, 2013 and SharePoint Online}](/id/Me-and-SharePoint/)

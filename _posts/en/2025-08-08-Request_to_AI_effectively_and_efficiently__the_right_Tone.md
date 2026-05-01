@@ -42,7 +42,7 @@ but rather like talking to a _teammate_ who is **very smart**:<br/>
 
 > I have A and B<br/>
 > please help me make C<br/>
-> following the pattern of A
+> following the pattern of A and B combined
 
 the difference:
 
