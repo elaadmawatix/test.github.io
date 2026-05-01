@@ -17,7 +17,7 @@ category_url: SharePoint
   - Banyak sekali product/tools/agent/...whatever AI di luar sana {bahkan Microsoft juga punya}
   - Me: Claude 4.7 is amazing
 - SharePoint SPFx {tenant_xyz.sharepoint.com}
-  - masih menggunakan React versi 17.0.1 {October 2020 [https://react.dev/versions](https://react.dev/versions)}
+  - masih menggunakan React versi 17.0.1 {[https://react.dev/versions](https://react.dev/versions) v17.0.1 (**October, 2020**)}
 - cuman UI doank, apa susah banget untuk diupgrade?
 
 ### Bukan tentang React version {even Latest version}, it's about Care
@@ -66,7 +66,7 @@ You are World Class -- Software Company.<br/>
 > - sudah banyak Aplikasi Bisnis yang jalan di atas Platform ini
 >
 > catatan tambahan:
-> - Please skip React 18 {https://react.dev/versions v18.3.1 (**April, 2024**)}
+> - Please skip React 18 {[https://react.dev/versions](https://react.dev/versions) v18.3.1 (**April, 2024**)}
 > - Now it's **May 2026**
 
 ## Surat Cinta
